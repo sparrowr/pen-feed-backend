@@ -11,9 +11,7 @@ curl "${API}${URL_PATH}/${ID}" \
 --data '{
     "pen": {
       "isInked": false,
-      "isClean": true,
-      "inkName": "empty",
-      "inkType": "empty"
+      "isClean": true
     }
   }'
 

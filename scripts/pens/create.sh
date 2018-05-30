@@ -17,7 +17,7 @@ curl "${API}${URL_PATH}" \
       "changedMonth": 3,
       "changedDay": 11,
       "inkName": "curl test ink",
-      "inkType": "standard"
+      "inkType": "Water-Soluble"
     }
   }'
 
