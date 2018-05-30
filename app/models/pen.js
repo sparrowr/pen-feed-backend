@@ -13,15 +13,15 @@ const penSchema = new mongoose.Schema({
     type: Boolean,
     required: true
   },
-  inkedYear: {
+  changedYear: {
     type: Number,
     required: false
   },
-  inkedMonth: {
+  changedMonth: {
     type: Number,
     required: false
   },
-  inkedDay: {
+  changedDay: {
     type: Number,
     required: false
   },

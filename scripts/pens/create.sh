@@ -13,9 +13,9 @@ curl "${API}${URL_PATH}" \
       "name": "'"${NAME}"'",
       "isInked": true,
       "isClean": false,
-      "inkedYear": 2018,
-      "inkedMonth": 3,
-      "inkedDay": 11,
+      "changedYear": 2018,
+      "changedMonth": 3,
+      "changedDay": 11,
       "inkName": "curl test ink",
       "inkType": "standard"
     }
